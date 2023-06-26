@@ -81,7 +81,7 @@ public class CocheTest {
 	@ValueSource(ints = { 1, 2, 3, 4 })
 	void testGetterAño(int anio) {
 		Coche c = new Coche("", "", anio, 0);
-		assertEquals(anio, c.getAño());
+		assertEquals(anio, c.getAnio());
 	}
 
 	@ParameterizedTest
@@ -111,8 +111,8 @@ public class CocheTest {
 	@ValueSource(ints = { 1, 2, 3, 4 })
 	void testSetterAño(int anio) {
 		Coche c = new Coche("", "", 0, 0);
-		c.setAño(anio);
-		assertEquals(anio, c.getAño());
+		c.setAnio(anio);
+		assertEquals(anio, c.getAnio());
 	}
 
 	@ParameterizedTest

@@ -3,37 +3,37 @@
     {
       "marca": "Seat",
       "modelo": "Toledo",
-      "año": 2007,
+      "anio": 2007,
       "precio": 4500
     },
     {
       "marca": "Toyota",
       "modelo": "Corolla",
-      "año": 2022,
+      "anio": 2022,
       "precio": 22000
     },
     {
       "marca": "Ford",
       "modelo": "Mustang",
-      "año": 2021,
+      "anio": 2021,
       "precio": 45000
     },
     {
       "marca": "Chevrolet",
       "modelo": "Camaro",
-      "año": 2023,
+      "anio": 2023,
       "precio": 52000
     },
     {
       "marca": "Honda",
       "modelo": "Civic",
-      "año": 2022,
+      "anio": 2022,
       "precio": 25000
     },
     {
       "marca": "BMW",
       "modelo": "X5",
-      "año": 2019,
+      "anio": 2019,
       "precio": 20000
     }
   ]
